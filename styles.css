@@ -8,6 +8,7 @@
 
 body{
     background-color: #fffbf6;
+     overflow-x: hidden;
 }
 
 .logo{
